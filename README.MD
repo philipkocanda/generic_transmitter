@@ -1,7 +1,6 @@
-# Generic Library (Arduino > Pimatic with Homeduino)
+# What is it?
 
-Turns any Arduino with a 433 MHz transmitter into a wireless sensor probe / data logger for Pimatic.
-Transmits temperature, humidity, or any other numeric reading to your Pimatic home automation system.
+GenericTransmitter is an Arduino Library that turns any Arduino with a 433 MHz transmitter into a wireless sensor probe / data logger for Pimatic. Transmits temperature, humidity, or any other numeric reading to your Pimatic home automation system.
 
 # Prerequisites
 
